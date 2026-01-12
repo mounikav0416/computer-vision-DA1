@@ -1,4 +1,4 @@
-n interactive Streamlit-based computer vision application that detects object boundaries, analyzes geometric shapes, and extracts features such as area and perimeter using classical image processing techniques.
+An interactive Streamlit-based computer vision application that detects object boundaries, analyzes geometric shapes, and extracts features such as area and perimeter using classical image processing techniques.
 
 📌 Project Overview
 
